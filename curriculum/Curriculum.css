@@ -1,0 +1,42 @@
+#foto {
+    margin-top: 60px;
+    border-radius: 50%;
+}
+
+#prof {
+    font-size: 15px;  
+}
+
+#parte1{
+    background-color: deepskyblue;
+    color: white;
+    float: left;
+    height: 1050px;
+    width: 350px;
+    text-align: center;
+    line-height: 2;
+    
+}
+#parte2 {
+    background-color:azure;
+    float:left;
+    width: 650px;
+    margin-left: 35px;
+    text-align: left;
+}
+
+body{
+    font-family: "Verdana";
+}
+
+#Nombre {
+    color: white;
+}
+
+h1 {color:deepskyblue;
+    font-size: 19px;
+}
+
+h2 {
+    font-size: 20px;
+}
